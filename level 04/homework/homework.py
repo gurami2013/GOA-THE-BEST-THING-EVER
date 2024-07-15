@@ -1,3 +1,4 @@
+
 from turtle import*
 #draw 3 squares
 speed(30)
@@ -24,6 +25,7 @@ forward(150)
 right(90)
 forward(150)
 #draw a door
+begin_fill()
 color("red")
 penup()
 forward(70)
@@ -34,43 +36,19 @@ left(90)
 forward(70)
 left(90)
 forward(100)
+end_fill()
 #draw a flag
 penup()
+begin_fill()
 left(90)
 left(90)
 goto(200,200)
 pendown()
 left(30)
 forward(200)
-left(95)
+left(120)
 forward(200)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+left(120)
+forward(200)
+end_fill()
 exitonclick()
