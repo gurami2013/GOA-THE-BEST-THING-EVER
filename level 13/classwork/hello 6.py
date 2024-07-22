@@ -1,0 +1,1 @@
+print("an idea or feeling that a word invokes in addition to its literal or primary meaning.")

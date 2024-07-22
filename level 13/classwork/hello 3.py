@@ -1,0 +1,2 @@
+print(" hello how are you today we ar gonna ask how did u became famous . first question  how did u get mone second how did u became  from loser to a such big selebrati could u explain")
+print(" well first i strted a littel buisnnes by using app after the rating got up and more and more money i got after i strarted singigng so i became famous")
